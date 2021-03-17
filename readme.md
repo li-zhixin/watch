@@ -1,6 +1,7 @@
 # watch
 
 [![Go](https://github.com/li-zhixin/watch/actions/workflows/go.yml/badge.svg?branch=main)](https://github.com/li-zhixin/watch/actions/workflows/go.yml)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/li-zhixin/watch)
 
 print start time and end time when run command.
 
