@@ -1,5 +1,7 @@
 # watch
 
+[![Go](https://github.com/li-zhixin/watch/actions/workflows/go.yml/badge.svg)](https://github.com/li-zhixin/watch/actions/workflows/go.yml)
+
 print start time and end time when run command.
 
 ## Policy
